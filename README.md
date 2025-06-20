@@ -21,7 +21,7 @@ Goal: Train a fully autonomous, AI-powered JetRacer style project built on NVIDI
 - Wheels and motors
 - 
 
-See [`docs/hardware_list.md`](docs/hardware_list.md) for detailed part list and links.
+See [`docs/hardware_list.md`]([docs/hardware_list.md](https://docs.google.com/document/d/17P2p_zScGRy9KwMatDvKX1qE3s3ogGrmhXNLoPHxNAk/edit?tab=t.0)) for detailed part list and links.
 
 
 ## Project Structure
