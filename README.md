@@ -56,7 +56,7 @@ See [`TODO.md`](TODO.md) for live progress tracking.
 
 
 ## License
-This project is open-source under the MIT License. Feel free to fork, learn, and improve!
+This project is open-source under the MIT License. Feel free to learn and improve!
 
 
 
