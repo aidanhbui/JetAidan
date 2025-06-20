@@ -34,13 +34,14 @@ Check back soon for GIFs and videos of the car in action!
 
 ## Status
 This project is currently in development. Key milestones:
-- ✅ JetCard flashed and ready
-- ✅ Development environment prepared
-- 🔄 Codebase scaffolding and planning
-- 🔄 Training dataset design
-- 🔄 Model training and validation
-- 🔲 Fault detection module testing
-- 🔲 Final test runs and demos
+- JetCard flashed and ready
+- Hardware setup
+- Development environment prepared
+- Codebase scaffolding and planning
+- Training dataset design
+- Model training and validation
+- Fault detection module testing
+- Final test runs and demos
 
 See [`TODO.md`](TODO.md) for live progress tracking.
 
