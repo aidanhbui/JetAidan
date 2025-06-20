@@ -24,3 +24,45 @@ See [`docs/hardware_list.md`]([docs/hardware_list.md](https://docs.google.com/do
 
 
 ## Project Structure
+
+
+
+
+## Demo (Coming Soon)
+Check back soon for GIFs and videos of the car in action!
+
+
+## Status
+This project is currently in development. Key milestones:
+- ✅ JetCard flashed and ready
+- ✅ Development environment prepared
+- 🔄 Codebase scaffolding and planning
+- 🔄 Training dataset design
+- 🔄 Model training and validation
+- 🔲 Fault detection module testing
+- 🔲 Final test runs and demos
+
+See [`TODO.md`](TODO.md) for live progress tracking.
+
+
+
+## Tech Stack
+- **JetCard** (NVIDIA AI IoT stack)
+- **PyTorch** (model training & inference)
+- **JupyterLab** (training interface)
+- **OpenCV** (camera and image preprocessing)
+- **I2C + PWM** (motor/servo control)
+
+
+
+## License
+This project is open-source under the MIT License. Feel free to fork, learn, and improve!
+
+
+
+## About Me
+I'm Aidan Hoidal-Bui, a Mechanical Engineering student at Tufts University interested in autonomous systems and robotics. This project is part of my 2025 summer goal to grow as a full-stack roboticist. Feel free to connect:
+
+- [LinkedIn](https://linkedin.com/in/aidan-hoidal-bui)
+- [Portfolio Website](https://aidanhbui.github.io/Website/)
+- [Email](mailto:aidan.hoidal_bui@tufts.edu)
