@@ -1,4 +1,4 @@
-# JetXoom Autonomous AI Car
+# "JetXoom" Autonomous AI Car
 Goal: Train a fully autonomous, AI-powered JetRacer style project built on NVIDIA Jetson Nano using the JetCard image. This project includes model training for self-driving behavior, real-time control, and a custom-built **fault detection module** to monitor sensor and hardware reliability. Designed as a personal summer project and portfolio piece for internship applications.
 
 ## Project Goals
